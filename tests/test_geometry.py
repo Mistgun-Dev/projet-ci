@@ -13,7 +13,7 @@ if __name__ == '__main__':
 class TestGeometricFunctions(unittest.TestCase):
 
     def test_rectangle_area(self):
-    # Tests de cas normaux
+    # Test de cas normaux
         self.assertEqual(rectangle_area(5, 3), 15)
         self.assertEqual(rectangle_area(7, 2), 14)
         

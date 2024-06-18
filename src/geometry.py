@@ -8,7 +8,7 @@ def rectangle_area(longueur, largeur):
 
     @param longueur: La longueur du rectangle.
     @param largeur: La largeur du rectangle.
-    @return L'aire du rectangle.
+    @return L'aire du rectangle
     """
     return longueur * largeur
 
